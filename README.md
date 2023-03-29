@@ -1,7 +1,5 @@
 # Hi, there! 👋
 
-I'm a Software Developer specializing in C++ with a strong background in systems programming and high-performance computing. I have experience working with C++11, C++14, and C++17 standards, and I am passionate about optimizing code and learning new techniques.
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
